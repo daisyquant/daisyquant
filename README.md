@@ -17,60 +17,33 @@
   ---
 </div>
 
-### ⚓ The Deep Dive: About Me
-
-* **The Quant Edge:** First-year Economics Honours student synthesizing a background in physical/life sciences (PCB) with rigorous statistical finance. 
-* **The Pipeline Shift:** Architecting automated Python frameworks to migrate legacy macroeconomic tracking models out of manual spreadsheet environments into reproducible scripting environments.
-* **Professional Briefcase:** Track my academic milestones and technical evolution through the attached [**Verma_Daisy_Resume.pdf**](Verma_Daisy_Resume.pdf).
+### ⚓ About Me
+* 📊 **The Quant Edge:** I am a first-year Economics Honours student at Purnea University. I leverage an interdisciplinary science background to bring a rigid mathematical foundation to financial datasets.
+* 🐍 **The Pipeline Shift:** Focused on the intersection of data analysis and financial markets. I specialize in converting manual spreadsheet tracking into automated, scalable Python pipelines using **Pandas** and **Matplotlib**.
+* 📄 **Complete Timeline:** Feel free to explore my full professional timeline in [**Daisy_Verma_Resume.pdf**](Daisy_Verma_Resume.pdf) which is hosted directly within this repository.
 
 ---
 
-### 🐋 Research Log
-
+### 🐋 Research & Automation Spotlight
 > **Regional Economic Disparities in Bihar (Jan 2026 – Present)**
-> * **Objective:** Mapping structural GDP and Per Capita Income (PCI) deviations across 8 focus districts.
-> * **Automation:** Leveraging `Pandas` to ingest local statistical streams and applying `Matplotlib` to dynamically map correlations between district literacy rates and geographic wealth density.
+> * Conducting original academic research across 8 key districts of Bihar, exploring Per Capita Income deviations from the state mean.
+> * Building programmatic pipelines in Python to automate data ingestion and visualize structural correlations between regional literacy rates and state wealth distribution.
 
 ---
 
-### 🛠️ Ocean-Class Toolkit
+### 🛠️ Technical & Quantitative Toolkit
 
-<table>
-  <tr>
-    <td align="center" width="33%"><strong>💾 Data & Infrastructure</strong></td>
-    <td align="center" width="33%"><strong>📈 Markets & Quant</strong></td>
-    <td align="center" width="33%"><strong>🏛️ Core Competencies</strong></td>
-  </tr>
-  <tr>
-    <td valign="top">
-      • Python 🐍 (Pandas, Matplotlib)<br>
-      • Advanced MS Excel 📊<br>
-      • Pipeline Automation ⚙️<br>
-      • Statistical Data Analysis 📉
-    </td>
-    <td valign="top">
-      • Alpha Formula Design 🧠<br>
-      • Quantitative Modeling (Starter)<br>
-      • Securities Markets (NISM) 🏛️<br>
-      • Mutual Fund Structures (AMFI)
-    </td>
-    <td valign="top">
-      • Macroeconomic Research 📑<br>
-      • Data Storytelling 📢<br>
-      • Analytical Logic 🧪<br>
-      • Strategic Adapting 🗺️
-    </td>
-  </tr>
-</table>
+* **Programming & Tools:** Python (Pandas, Matplotlib) 🐍 • Advanced Excel Statistical Data Modeling 📊
+* **Quantitative Finance:** Alpha Design 🧠 • Securities Markets Foundations 🏛️ • Mutual Funds Structure 💰
+* **Core Competencies:** Economic Analysis 📑 • Data Visualisation 🎨 • Data Storytelling 📢 • Research Writing 📝
 
 ---
 
-### 🏆 Fleet Achievements
-
-* 🗺️ **International Quant Championship (IQC) 2026** | Stage 1 Qualifier (Top 20% Globally) — Cleared both *Gold* and *Silver* Tier institutional score benchmarks.
-* 🥉 **WorldQuant BRAIN Consultant Program** | Formally designated *Bronze Level* Research Consultant.
-* 🏛️ **National Financial Certifications** | Certified in Financial Literacy for Bharat (NISM) & Mutual Funds Participation (AMFI).
-* 🧠 **Tata Crucible Campus Quiz 2025** | Regional Prelims Qualifier.
+### 🏆 Key Achievements & Certifications
+* 🥇 **International Quant Championship (IQC) 2026:** Stage 1 Qualifier, finishing in the **Top 20% Globally** (cleared both *Gold Tier* and *Silver Tier* benchmarks).
+* 🥉 **WorldQuant BRAIN Program:** Earned **Bronze Level** Research Consultant status.
+* 📜 **Financial Certifications:** NISM Certified (Quantitative Finance Starter Level & Financial Literacy Course for Bharat) and AMFI Certified (Mutual Funds Sahi Hai Participation).
+* 🧠 **Tata Crucible Campus Quiz 2025:** National Prelims Qualifier.
 
 ---
 
@@ -83,11 +56,10 @@
 
 ---
 
-### 📬 Signal Flare (Let's Connect!)
-
+### 📬 Let's Connect!
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-005f73?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daisy-v-economics)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-005f73?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daisy-veconomics)
 [![Email](https://img.shields.io/badge/Gmail-0a9396?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daisy.eco0601@gmail.com)
 
 <br>
